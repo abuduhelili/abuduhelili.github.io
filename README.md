@@ -1,5 +1,1 @@
-# abuduhelili
-
-my blog
-
-- harry.neeoo@gmail.com
+**[my blog](https://abuduhelili.github.io/).**
